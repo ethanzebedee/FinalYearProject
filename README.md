@@ -4,6 +4,8 @@ This repository contains the notebooks, result files, and supporting material fo
 
 The project evaluates classical and quantum approaches across standard datasets and records model accuracy together with CPU and memory usage. Quantum experiments are split between local Qiskit-based runs and Azure Quantum runtime executions.
 
+📄 **Final report:** [Final_Report.pdf](./Final_Report.pdf), *Comparative Analysis of Quantum Support Vector Classifiers (QSVC) and Variational Quantum Classifier (VQC) for Machine Learning Tasks* (UCD School of Computer Science, May 2023).
+
 ## Project Scope
 
 The repository focuses on comparing:
@@ -28,6 +30,7 @@ Datasets used in the experiments include:
 | [Results](./Results)                 | CSV outputs containing experiment metrics such as accuracy, CPU usage, and memory usage |
 | [Graphs](./Graphs)                   | Generated graphs and visual outputs used in the project                                 |
 | [Utils](./Utils)                     | Utility notebooks for producing figures and supporting analysis                         |
+| [Final_Report.pdf](./Final_Report.pdf) | Final year project thesis (compiled PDF)                                              |
 
 ## Notebooks
 
